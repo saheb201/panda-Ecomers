@@ -28,6 +28,7 @@ section{
 .cetone, .cetTwo, .cetThree{
     padding: 10px 30px;
     border-radius: 5px;
+    margin-bottom: 20px;
 }
 .cetone img{
    
@@ -40,4 +41,18 @@ section{
 .cetThree img{
    
     height: 100px;
+}
+.card{
+    box-shadow: 0 0px 17px lightgray;
+    border: none;
+}
+#shoes{
+    margin-top: 50px;
+}
+#Backpack{
+    margin-top: 50px; 
+}
+.subscribe-section{
+    background: #feeae8;
+    height: 35vh;
 }
