@@ -1,5 +1,9 @@
+section{
+    margin-top: 20px;
+}
 .slider-background{
     background: #feeae8;
+    
 }
 .carousel-item{
     padding: 20px 20px;
@@ -9,4 +13,31 @@
 }
 .buy-now-button{
     background: linear-gradient(to bottom , #FF5898 0%, #FF136F 100%);
+}
+.cetone{
+    background: linear-gradient(to right , #ff9d35 , #ffd019 );
+ 
+  
+}
+.cetTwo{
+    background: linear-gradient(to right ,  #ff448e, #ff2e80 );
+}
+.cetThree{
+    background: linear-gradient(to right ,  #4157fc, #4157fc );
+}
+.cetone, .cetTwo, .cetThree{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cetone img{
+   
+    height: 100px;
+}
+.cetTwo img{
+   
+    height: 100px;
+}
+.cetThree img{
+   
+    height: 100px;
 }
